@@ -77,7 +77,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/myat06/myat06/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Myat06/Myat06/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
