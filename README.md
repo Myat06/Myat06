@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Myat%20Min%20Thu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IS%20Student%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" />
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer+%F0%9F%93%B1;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Information+Systems+@+President+University;Building+AI-powered+solutions+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%AA" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=myat06&label=Profile%20views&color=0e75b6&style=flat" alt="myat06" />
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer+%F0%9F%93%B1;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Information+Systems+@+President+University;Building+AI-powered+solutions+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myat06&label=Profile%20views&color=0e75b6&style=flat" alt="myat06" />
-</p>
 
 ---
 
@@ -70,6 +70,14 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myat06&theme=tokyonight" alt="myat06" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/myat06/myat06/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
