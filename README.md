@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Myat%20Min%20Thu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IS%20Student%20%7C%20Developer%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" />
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/Myat06/Myat06/main/profile.jpeg" width="150" style="border-radius:50%" alt="Myat Min Thu"/>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer+%F0%9F%93%B1;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Information+Systems+@+President+University;Building+AI-powered+solutions+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%AA" alt="Typing SVG" />
 
