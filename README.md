@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://github.com/Myat06.png" width="120" style="border-radius:50%" alt="Myat Min Thu"/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Developer+%F0%9F%93%B1;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Information+Systems+@+President+University;Building+AI-powered+solutions+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%92%AA" alt="Typing SVG" />
 
 <br/>
