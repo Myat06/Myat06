@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://github.com/Myat06.png" width="120" style="border-radius:50%" alt="Myat Min Thu"/>
+<img src="https://raw.githubusercontent.com/Myat06/Myat06/main/profile.jpeg" width="150" style="border-radius:50%" alt="Myat Min Thu"/>
 
 <br/><br/>
 
