@@ -61,12 +61,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myat06&show_icons=true&theme=tokyonight&locale=en" alt="myat06" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myat06&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="myat06" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myat06&theme=tokyonight" alt="myat06" />
 </p>
 
